@@ -23,6 +23,9 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 13 号添加
+* isCompress：https://www.iscompress.com/：图片压缩工具，70%+ 压缩率同时保持画质，支持 PNG/JPEG/WebP 批量处理，纯本地运行不上传
+
 ### 2026 年 5 月 11 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
